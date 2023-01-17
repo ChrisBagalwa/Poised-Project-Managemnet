@@ -1,2 +1,0 @@
-001, The Paragon, Complex, 6749, 2022-08-30, 1000000.0, 700000.0, Binja Mulume Oderwa, 067798465, binja@mulume.com, 1 Wycroft road, Elon musk, 081457639, elonmusk@spacex.com, 1 scott road, Jacobs, 021458756, jacobs@construction.co.za, 1 Elektron road, not finalized, 
-002, The Horizon, Apartments, 3465, 2022-12-24, 1500000.0, 1000000.0, Chris Bagalwa, 0799083112, ccriopex@gmail.com, 29 Robins Road, Mc Donald, 0688953112, mcdonald@gmail.com, 1 Houtbay Road, Haw and Inglis, 021345764, hawandinglis@hi.co.za, 1 Quarry Rd Durbanville, not finalized, 
